@@ -1,0 +1,21 @@
+.carousel-item {
+  background-color: #fceae8;
+}
+.category h3 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  text-align: center;
+  width: 65%;
+}
+.category img {
+  width: 35%;
+}
+.category1 {
+  background-color: #ffa500;
+}
+.category2 {
+  background-color: #da70d6;
+}
+.category3 {
+  background-color: #0000ff;
+}
